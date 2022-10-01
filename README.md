@@ -50,7 +50,20 @@ The data was then imported into Power BI using.
 * Race disttibution 
 
 ## Dashboards
+### Report Tab 1:
+This is the home page / naviagtion page. 
 ![Dashboard](https://github.com/Jennie-Techie/HR-Data-visualization-with-Power-BI/blob/b350c72948ef401543889345e00317e1a1ae206a/HR%20Analytics%20Project_page-0001.jpg)
+
+### Report Tab 2:
+ 
+**This report page addresses USE CASE 1 and USE CASE 3. It answers the questions'Who are our employees?' and 'How much do we spend annually on staff salaries?'. 
+It uses 4 main visuals to show who the current employees are. There are also 4 cards which show the metrics 'Total employees', 'Annual Salaries', 'Total Male' and 'Total Female'. An employee filter is provided so that the user can search for specific employees and get their details.** 
 ![Dashbaord](https://github.com/Jennie-Techie/HR-Data-visualization-with-Power-BI/blob/8d3c66bb0688f3d67314a9aca3a41f5a67b8a29c/HR%20Analytics%20Project_page-0002.jpg)
+
+### Report Tab 3: 
+**This report page addresses the USE CASE 2 which is focused on Attrition Analysis. While it does not directly answer the question 'Why are our employees leaving?', it gives insights into the job level, department, age, service years at the company and the gender of all attritioned employees. Further analysis of the insights in the dashboard would answer the question. The dashboard points management in the direction they should look to know why employees are leaving and also how they can mitigate it.**
 ![Dashboard](https://github.com/Jennie-Techie/HR-Data-visualization-with-Power-BI/blob/8d3c66bb0688f3d67314a9aca3a41f5a67b8a29c/HR%20Analytics%20Project_page-0003.jpg)
+
+### Report Tab 4:
+**This report page addresses the USE CASE 4 which is focused on Diverity Analysis. It answers the question 'How diverse is our workforce?' At a glance, the user can see the employee distribution by race, gender, disability, Age/Generation and marital status. All of these metrics would help the management in checking if they have met their diversity target, and they can make better decisions.
 ![Dashbaord](https://github.com/Jennie-Techie/HR-Data-visualization-with-Power-BI/blob/8d3c66bb0688f3d67314a9aca3a41f5a67b8a29c/HR%20Analytics%20Project_page-0004.jpg)
