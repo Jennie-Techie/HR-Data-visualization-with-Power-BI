@@ -3,6 +3,15 @@
 ## PROJECT DESCRIPTION
 This data analysis and data visualization project is for the management of a fictitious company, Hillspring.
 
+### Tools
+* **Power BI Desktop**
+
+### This project was built with the following Power BI Desktop components:
+* **Power Query**
+* **Power Pivot**
+* **Power View**
+
+
 ## Business Request:
 In recent years, Hillspring Enterprise has had a high turnover and this has negatively affected the business. (Write a bit on the down sides of employee attrition). Management wants to come up with new strategies to improve staff retentions as their current strategies have not been successful. Also, management wants to know how diverse their workforce is, as there was a recent complaint of discrimination by two high performing employees. (write a bit on the advantages of a diverse workforce)
 Based on this, the HR manager has requested that the data analyst build a dashbaord which shows the following:
@@ -11,10 +20,9 @@ Based on this, the HR manager has requested that the data analyst build a dashba
 >* An analysis of employee diversity
 
 ## Business Questions
-> * How many employees do we currently have?
-> * Who are our employees? 
-> * Where are they located?
-> * How much do they earn?
+> * How many employees do we currently have? Where are they located?
+> * Who are our employees?
+> * How much do we spend annually on staff salaries?
 > * Why are employees leaving our organisation?
 > * What is the age demographic of attritioned employees?
 > * How diverse is our organisation? 
@@ -28,6 +36,10 @@ Based on this, the HR manager has requested that the data analyst build a dashba
 | 3. | Financial Manager | To see at a glance our annual salaries | so that I can adjust our salary budget accordingly | A Power BI dashboard which allows the filtering of salaries by employees |
 | 4. | Hr Manager | To see how diverse our workforce is | so I can review our recruitment policies accordingly, in order to attract a more diverse workforce | A Power BI dashboard which shows the diversity of our team | 
 
+### Data Source
+Data was gotten from 2 csv files titled 'Hr_data' and 'Demographic data'
+
+The data was then imported into Power BI using. 
 
 ### Key Metrics
 * Annual Salaries 
