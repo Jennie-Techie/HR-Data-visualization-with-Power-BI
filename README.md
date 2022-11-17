@@ -27,7 +27,7 @@ Based on this, the HR manager has requested that the data analyst build a dashba
 > * What is the age demographic of attritioned employees?
 > * How diverse is our organisation? 
 
-##USER STORIES  
+## USER STORIES  
 
 | User Story no. | As a (role) | I want (goal) | so that (result) | Acceptance Criteria |
 |------| ------ | ---- | --- |--- |
