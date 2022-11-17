@@ -31,7 +31,7 @@ Based on this, the HR manager has requested that the data analyst build a dashba
 
 | User Story no. | As a (role) | I want (goal) | so that (result) | Acceptance Criteria |
 |------| ------ | ---- | --- |--- |
-| 1.  | Hr Manager | To see at a glance details of all employees who currently work in our organisation | Can plan.. | A Power BI dashboard which dsiplays at a high level all employee details which can be filtered to individual employee level |
+| 1.  | Hr Manager | To see at a glance details of all employees who currently work in our organisation | Can plan adequately | A Power BI dashboard which dsiplays at a high level all employee details which can be filtered to individual employee level |
 | 2. | HR Manager | To see at a glance the summary of all employees who have attritioned | so that I can track what departments, job levels and job roles are affected | A Power BI dashboard which can filter employee attrition | 
 | 3. | Financial Manager | To see at a glance our annual salaries | so that I can adjust our salary budget accordingly | A Power BI dashboard which allows the filtering of salaries by employees |
 | 4. | Hr Manager | To see how diverse our workforce is | so I can review our recruitment policies accordingly, in order to attract a more diverse workforce | A Power BI dashboard which shows the diversity of our team | 
