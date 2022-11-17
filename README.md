@@ -13,7 +13,7 @@ This data analysis and data visualization project is for the management of a fic
 
 
 ## Business Request:
-In recent years, Hillspring Enterprise has had a high turnover and this has negatively affected the business. (Write a bit on the down sides of employee attrition). Management wants to come up with new strategies to improve staff retentions as their current strategies have not been successful. Also, management wants to know how diverse their workforce is, as there was a recent complaint of discrimination by two high performing employees. (write a bit on the advantages of a diverse workforce)
+In recent years, Hillspring Enterprise has had a high turnover and this has negatively affected the business. (Write a bit on the down sides of employee attrition). Management wants to come up with new strategies to improve staff retentions as their current strategies have not been successful. Also, management wants to know how diverse their workforce is, as there was a recent complaint of discrimination by two high performing employees. 
 Based on this, the HR manager has requested that the data analyst build a dashbaord which shows the following:
 >* An overview of all employees
 >* An analysis of employee attrition
